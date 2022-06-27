@@ -244,6 +244,7 @@
           null,
           1,
           1,
+          1,
           null
         ]
       },
@@ -257,6 +258,11 @@
         "lines": [
           1,
           1,
+          null,
+          1,
+          null,
+          3,
+          null,
           null
         ]
       },
@@ -274,18 +280,12 @@
           null
         ]
       },
-      "/Users/johnsantosuosso/set_list/set_list/app/controllers/songs_controller.rb": {
+      "/Users/johnsantosuosso/set_list/set_list/app/controllers/artist_songs_controller.rb": {
         "lines": [
           1,
-          null,
           1,
-          0,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null,
+          3,
+          3,
           null,
           null
         ]
@@ -295,8 +295,24 @@
           1,
           null
         ]
+      },
+      "/Users/johnsantosuosso/set_list/set_list/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1656346009
+    "timestamp": 1656357252
   }
 }
