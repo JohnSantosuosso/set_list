@@ -249,40 +249,16 @@
           1,
           null,
           1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
           null
         ]
       },
       "/Users/johnsantosuosso/set_list/set_list/app/helpers/application_helper.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/johnsantosuosso/set_list/set_list/app/controllers/artists_controller.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          2,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/johnsantosuosso/set_list/set_list/app/controllers/application_controller.rb": {
         "lines": [
           1,
           null
@@ -306,8 +282,55 @@
           1,
           null
         ]
+      },
+      "/Users/johnsantosuosso/set_list/set_list/app/controllers/artists_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnsantosuosso/set_list/set_list/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1656367084
+    "timestamp": 1656376185
   }
 }
